@@ -1,8 +1,8 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-      Why Timely Delivery is Crucial in Software Project Management
- Meeting Client Expectations and Satisfaction:
 
+ Meeting Client Expectations and Satisfaction:
+ 
 Clients often have specific timelines for product launches, marketing campaigns, or other business needs that depend on the delivery of software. Timely delivery ensures that client expectations are met, leading to higher satisfaction and potential for repeat business or referrals.
 Maintaining Competitive Advantage:
 
@@ -60,9 +60,7 @@ Ensure that quality assurance is integrated into the development process to catc
 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-    Effective cost control is a critical component of successful software project management. It ensures that the project stays within its allocated budget, directly contributing to 
-    its success by avoiding financial losses, maintaining profitability, and ensuring stakeholder satisfaction.
-    
+
   How Effective Cost Control Contributes to the Success of a Software Project
   Ensures Financial Viability:
 
@@ -92,10 +90,11 @@ Use project management software tools (such as Microsoft Project, Jira, or Asana
 
     
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-      Agile:
+     
+      Agile methodology: 
       
       Description:
-
+      
      Iterative and incremental approach to project
      management and software development.
 
